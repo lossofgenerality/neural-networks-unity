@@ -17,6 +17,8 @@ Both networks can also be **trained inside Unity** (a third, teal option next to
 weights), with snapshots during training and a replay that shows the early networks dropping the
 stick and the later ones balancing it. The notebook's networks stay the default and are never changed.
 
+▶ **Video:** [`docs/CCN_wolfram_unity_neural_nets.mp4`](docs/CCN_wolfram_unity_neural_nets.mp4), a recording of both scenes, with training inside Unity.
+
 The scene is a dark studio stage (grid floor, fog, soft shadows) seen through a 3D camera you can
 orbit and zoom, within limits.
 
