@@ -17,6 +17,15 @@ Both networks can also be **trained inside Unity** (a third, teal option next to
 weights), with snapshots during training and a replay that shows the early networks dropping the
 stick and the later ones balancing it. The notebook's networks stay the default and are never changed.
 
+**The Wolfram notebook**, in [neural-networks-things](https://github.com/lossofgenerality/neural-networks-things/tree/main/feedforward-neural-networks):
+
+| File | What it is |
+|---|---|
+| [`Feedforward-Neural-Networks.nb`](https://github.com/lossofgenerality/neural-networks-things/blob/main/feedforward-neural-networks/Feedforward-Neural-Networks.nb) | The Wolfram notebook, evaluated (Wolfram 15) |
+| [`Feedforward-Neural-Networks.pdf`](https://github.com/lossofgenerality/neural-networks-things/blob/main/feedforward-neural-networks/Feedforward-Neural-Networks.pdf) | Printed version, A4 |
+| [`Feedforward-Neural-Networks.md`](https://github.com/lossofgenerality/neural-networks-things/blob/main/feedforward-neural-networks/Feedforward-Neural-Networks.md) | Markdown edition with LaTeX equations and the Wolfram outputs |
+| [`videos/`](https://github.com/lossofgenerality/neural-networks-things/blob/main/feedforward-neural-networks/videos) | The notebook's animations as MP4 videos |
+
 ▶ **Video:** [`docs/CCN_wolfram_unity_neural_nets.mp4`](docs/CCN_wolfram_unity_neural_nets.mp4), a recording of both scenes, with training inside Unity.
 
 The scene is a dark studio stage (grid floor, fog, soft shadows) seen through a 3D camera you can
