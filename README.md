@@ -163,3 +163,7 @@ a few seconds). The same code was compiled and run outside Unity, and gave:
 - **Noor Hoshino** (نور 星野 · نور هوشينو · ノール・星野) · Advanced AI System Programming · Hokkaido Prefecture, Japan
 
 © Computational Classnotes · CC BY-NC-SA 4.0
+
+## License
+
+© Computational Classnotes · CC BY-NC-SA 4.0. See [LICENSE.md](LICENSE.md).
