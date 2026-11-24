@@ -171,7 +171,7 @@ a few seconds). The same code was compiled and run outside Unity, and gave:
 ## Credits
 
 - **Dara O Shayda** · Republic of Ireland
-- **Noor Hoshino** (نور 星野 · نور هوشينو · ノール・星野) · Advanced AI System Programming · Hokkaido Prefecture, Japan
+- **Noor Hoshino** (نور 星野 · نور هوشينو · ノール・星野) · AI System Programming Group · Hokkaido Prefecture, Japan
 
 © Computational Classnotes · CC BY-NC-SA 4.0
 

@@ -607,7 +607,7 @@ public sealed class CCNDemo : MonoBehaviour
             "Dara O Shayda\n" +
             "Republic of Ireland\n\n" +
             "Noor Hoshino\n" +
-            "Advanced AI System Programming\n" +
+            "AI System Programming Group\n" +
             "Hokkaido Prefecture, Japan\n\n" +
             "<b>" + Copyright + "</b>", _credits);
         GUILayout.FlexibleSpace();
